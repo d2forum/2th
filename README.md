@@ -17,6 +17,7 @@
 ### 《Enterprise Ajax in PHP》
 
 - 分享嘉宾：Hedger Wang / 前Yahoo!资深前端工程师
+- [现场分享视频](https://vimeo.com/1013182)
 
 ### 《Enhanceing Web Sites With The YUI Library》
 
@@ -26,3 +27,4 @@
 ### 《基于OpenResty的纯客户端web站点实现－Blog实例》
 
 - 分享嘉宾：章亦春 / 中国雅虎平台工程师
+- [现场分享视频](https://vimeo.com/1013264)
